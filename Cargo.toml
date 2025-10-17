@@ -1,16 +1,16 @@
 [package]
 name = "dme"
-version = "0.1.0"
+version = "0.0.5"
 edition = "2024"
 authors = ["CryptoPatrick <cryptopatrick@gmail.com>"]
 
 ###############################################################################
-description = ""Dialogue Move Engine""
+description = "Dialogue Move Engine"
 documentation = "https://docs.rs/dme"
 homepage = "https://github.com/cryptopatrick/dme"
 repository = "https://github.com/cryptopatrick/dme"
 readme = "README.md"
-keywords = ["<KEYWORD1>", "<KEYWORD2>" ]
+keywords = ["ai", "dialogue engine"]
 license = "MIT"
 autotests = false
 
